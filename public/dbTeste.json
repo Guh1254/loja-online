@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Preta Básica",
+      "price": 79.90,
+      "description": "Camiseta preta em malha PV 100% algodão, manga curta e gola redonda.",
+      "image": "https://images.tcdn.com.br/img/img_prod/809258/camiseta_preta_malha_pv_manga_curta_gola_redonda_267_1_948ec668619667388dfc700bf588df6d.jpg",
+      "category": "Vestuário",
+      "rating": 4.7,
+      "stock": 50,
+      "sizes": ["P", "M", "G", "GG"]
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans Skinny",
+      "price": 199.90,
+      "description": "Calça jeans skinny cor escura, modelo ajustado com elastano para maior conforto.",
+      "image": "https://taco.vtexassets.com/arquivos/ids/451711/19065_C050_1-CJNS-SKIN-ESCURA.jpg?v=638324775830070000",
+      "category": "Vestuário",
+      "rating": 4.5,
+      "stock": 30,
+      "sizes": ["38", "40", "42", "44"]
+    }
+  ]
+}
