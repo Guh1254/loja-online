@@ -12,14 +12,21 @@ Páginas de detalhes dos produtos
 Sistema de checkout simulado
 
 Funcionalidades
+
 Listagem de produtos com paginação
+
 Página de detalhes com galeria de imagens
+
 Carrinho com controle de quantidades
+
 Seleção obrigatória de tamanhos
+
 Responsivo para mobile e desktop
+
 Persistência do carrinho no localStorage
 
 Tecnologias
+
 React 19
 
 Material-UI (MUI) v5
