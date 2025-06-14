@@ -1,4 +1,4 @@
-Descrição
+**Descrição**
 Guh'z Store é uma plataforma de e-commerce especializada em moda, desenvolvida com React e Material-UI. O projeto inclui:
 
 Catálogo de produtos com fotos e descrições
@@ -11,7 +11,7 @@ Páginas de detalhes dos produtos
 
 Sistema de checkout simulado
 
-Funcionalidades
+**Funcionalidades**
 
 Listagem de produtos com paginação
 
@@ -25,7 +25,7 @@ Responsivo para mobile e desktop
 
 Persistência do carrinho no localStorage
 
-Tecnologias
+**Tecnologias**
 
 React 19
 
@@ -37,10 +37,12 @@ Axios
 
 JSON Server
 
-Pré-requisitos
+**Pré-requisitos**
+
 Node.js
 
-Execução
+**Execução**
+
 Em dois terminais separados:
 
 Inicie o JSON Server:
